@@ -1,0 +1,6 @@
+code: an-imt-red-bundle
+description: Red bndle for imt by Anthony
+components:
+  widgets:
+    - ui/widgets/widgets-dir/an-imt-test-widget/an-imt-test-widget-descriptor.yaml
+
