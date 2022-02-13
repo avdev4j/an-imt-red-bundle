@@ -1,0 +1,6 @@
+code: an-imt-test
+titles:
+  en: test widget anthony imt
+  it: test widget anthony imt
+group: free
+customUiPath: an-imt-test-widget.ftl
